@@ -1,0 +1,18 @@
+☐ single repo
+☐ make a backend folder in main new repo
+☐ copy dosis app into backend folder
+☐ copy firmware over 
+
+
+☐ double repo
+☐ make lq_frontend
+☐ cp frontend stuff into that & delete git & git init
+☐ make new github repo & push
+☐ make lq_backend
+☐ cp backend stuff into that & delete git & git init
+☐ make new github repo & push
+
+☐ single repo variation
+☐ just link pcb flow
+
+☐ add a sidebar to control page
